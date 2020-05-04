@@ -3,14 +3,14 @@ body {
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: .3em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+	background: linear-gradient(to right, pink , blue); /* Standard syntax */
 }
 
 h1 {
-    font: 600 3.5em 'Raleway', sans-serif;
-    color: rgba(0,0,0,.5);
+    font: 600 3.5em , 'Arial Black', sans-serif;
+    color: gray;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
