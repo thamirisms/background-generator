@@ -1,5 +1,6 @@
 body {
-	font: 'Raleway', sans-serif;
+	font-family: 'Monofett', cursive;
+    font-size: 2em;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
@@ -9,8 +10,8 @@ body {
 }
 
 h1 {
-    font: 600 3.5em , 'Arial Black', sans-serif;
-    color: gray;
+    font-family: 'Monofett', cursive;
+    color: black;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
@@ -18,7 +19,7 @@ h1 {
 }
 
 h3 {
-	font: 900 1em 'Raleway', sans-serif;
+	font-family: 'Monofett', cursive;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
